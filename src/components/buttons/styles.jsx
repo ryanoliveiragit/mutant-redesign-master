@@ -14,11 +14,7 @@ cursor: pointer;
     transition: .5s;
     background: var(--SecondaryHover);
 }
-.icon {
-    position: absolute;
-    margin-top: 8px;
-    margin-left: 8px;
-}
+
 /* Secundaria/100 */
 
 background: var(--Secondary);
@@ -37,7 +33,7 @@ line-height: 40px;
 align-items: center;
 text-align: center;
 
-color: #000000;
+color: #f1f1f1;
 
 
 /* Inside auto layout */

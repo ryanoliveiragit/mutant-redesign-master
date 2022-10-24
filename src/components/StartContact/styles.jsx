@@ -14,11 +14,6 @@ export const Container = styled.div `
 a {
         text-decoration: none!important;
     }
-    .iconInstagram {
-        position: absolute;
-        margin-top: 2px;
-        margin-left: 5px;
-    }
 hr {
     margin-top: 1%;
     margin-bottom: 1%;

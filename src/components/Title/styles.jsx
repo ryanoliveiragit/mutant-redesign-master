@@ -6,7 +6,6 @@ export const Text = styled.h1`
     font-size: 78px;
     line-height: 97.5px;
     font-family: 'Lexend', sans-serif!important;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.13);
     &.fantasyName {
         font-family: Lexend;
 font-size: 20px;

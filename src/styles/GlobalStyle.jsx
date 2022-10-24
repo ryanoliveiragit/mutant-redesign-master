@@ -4,8 +4,8 @@ const GlobalStyle = createGlobalStyle` //Styled global App
 
 :root {
     --Primary: #e9e9e9;
-    --Secondary: #3AFC8A;
-    --SecondaryHover: #33e07b;
+    --Secondary: #0c0c0c;
+    --SecondaryHover: #1d1d1d;
     --text: #393939;
 }
 * {

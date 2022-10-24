@@ -19,7 +19,7 @@ export default function Home() {
         <Layout>
           <Header />
           <Title
-            fantasyName="TESTE123"
+            fantasyName="Hemy"
             cnpj="ANDREIA APARECIDA DA SILVA MORENO"
             cnpjNum="12630245802"
             fantasyNameStyled="fantasyName"
@@ -43,7 +43,7 @@ export default function Home() {
           </Button>
         </Layout>
         <Footer
-          cnpj="ANDREIA APARECIDA DA SILVA MORENO 12630245802"
+          cnpj="Hemy"
           endereco="Endereço: R GUARAITA, 1437, VILA CURUCA - São Paulo - SP"
           tell="(11) 1656-6845"
           fantasyName="Sagrado Neon"
